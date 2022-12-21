@@ -1,6 +1,6 @@
 ---
 slug: azure-conole-create
-id: h6frz2ortgf3
+id: kmdyyt5ylh5o
 type: challenge
 title: Azure-console
 teaser: azure

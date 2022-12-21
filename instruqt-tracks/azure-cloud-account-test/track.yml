@@ -1,6 +1,6 @@
-slug: azure-cloud-account-test
-id: 1f05d2nax77y
-title: Azure-cloud-account-test
+slug: azure-cloud-account-test-dev
+id: wfamtdlivyrb
+title: DEV - Azure-cloud-account-test
 teaser: Learn how to build tracks with an Azure account
 description: |-
   Learn how to use a sandboxed Azure account in your Instruqt track.
@@ -13,7 +13,9 @@ icon: https://upload.wikimedia.org/wikipedia/commons/c/cb/New-azure-logo-square.
 tags:
 - Cloud Account
 - Docker
+- dev
 owner: instruqt-demos
 developers:
 - santosh.nagargoje@xebia.com
-checksum: "17734537801644261842"
+maintenance: true
+checksum: "5301605206346439978"
